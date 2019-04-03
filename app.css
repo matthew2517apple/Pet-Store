@@ -1,6 +1,17 @@
 figure, p, h1 {
   padding-left: 0.8cm;
 }
+
+.default, .btn, .indent {
+  margin: 30px;
+}
+
+.disabled {
+  margin: 30px;
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
 header h1{
     padding: 10px 20px;
 }
